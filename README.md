@@ -1,5 +1,5 @@
 # todo-list
-
+This is a simple homework about making a todolist by Vue3.0
 ## Project setup
 ```
 npm install
